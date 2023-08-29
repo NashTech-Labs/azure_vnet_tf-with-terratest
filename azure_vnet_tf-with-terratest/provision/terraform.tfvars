@@ -1,4 +1,4 @@
-resource_group_name =   "test-rg"
-location    =   "uksouth"
-prefix  =   "vnet"
-postfix =   "sdjnjsnnsjnsjnc"
+resource_group_name =   ""
+location    =   ""
+prefix  =   ""
+postfix =   ""
